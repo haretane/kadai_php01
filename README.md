@@ -5,7 +5,7 @@ PHP　フォーム
 タイトル：「（ザ・ステータス）G's ACADEMY クラス統計調査」<br>
 
 秘密。。。（開けてのお楽しみ）
-　
+
 ## ③アプリのデプロイURL
 　
 https://ucu4.sakura.ne.jp/kadai_php01/
